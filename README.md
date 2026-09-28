@@ -1,6 +1,15 @@
 # 通用大屏前端专家团（frontend-team）
 
+[![License](https://img.shields.io/badge/license-MIT-3BF6FF?style=flat-square&labelColor=0b1723)](./LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Codex%20Plugin-3BF6FF?style=flat-square&labelColor=0b1723)](#安装)
+[![Skills](https://img.shields.io/badge/skills-7%20个-3BF6FF?style=flat-square&labelColor=0b1723)](#技能清单)
+[![Dependencies](https://img.shields.io/badge/dependencies-0-3BF6FF?style=flat-square&labelColor=0b1723)](#特性)
+
 一个面向 **大屏 GIS / 移动端 H5** 场景的前端专家团 Codex 插件：把大屏 GIS 前端、移动端 H5、UI 设计、质量与治理（代码评审 / 代码简化 / 交付门控）组织成一个多角色协作团队，按「立项对齐 → 实现 → 质量治理 → 交付」四阶段推进，并内置路由规则决定每一次该谁上场。
+
+![界面示意图](./assets/preview.svg)
+
+> 上图为插件工作台界面示意图（非真实截图）。
 
 ## 特性
 
@@ -17,7 +26,7 @@ frontend-team/
 │   └── plugin.json            # 插件清单（名称、版本、界面元数据）
 ├── LICENSE                    # MIT 许可
 ├── README.md
-├── assets/                    # 插件图标（icon.png 512×512 / logo.png 1024×1024 / logoDark.png 1024×1024 深色主题）
+├── assets/                    # 插件图标与界面示意图（icon.png / logo.png / logoDark.png / preview.svg）
 └── skills/                    # 全部技能
     ├── frontend-team/         # 专家团编排层（入口）
     ├── 项目级别前端开发规范/    # PC 大屏 GIS 前端规范
