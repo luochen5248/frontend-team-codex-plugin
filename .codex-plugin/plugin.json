@@ -1,0 +1,26 @@
+{
+  "name": "frontend-team",
+  "version": "1.0.0",
+  "description": "通用大屏前端专家团：大屏 GIS / 移动端 H5 的多角色协作编排，内含 6 个成员技能",
+  "author": {
+    "name": "Local developer"
+  },
+  "keywords": ["前端", "大屏", "GIS", "Cesium", "移动端H5", "专家团", "frontend-team"],
+  "skills": "./skills/",
+  "interface": {
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "brandColor": "#3BF6FF",
+    "displayName": "通用大屏前端专家团",
+    "shortDescription": "大屏 GIS 与移动端 H5 的多角色前端协作专家团",
+    "longDescription": "把大屏 GIS 前端、移动端 H5、UI 设计、质量与治理（代码评审 / 代码简化 / 交付门控）组成一个专家团，按「立项对齐 → 实现 → 质量治理 → 交付」四阶段协作，并带路由规则决定每次该谁上场。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "用前端专家团帮我做一个 GIS 大屏页面",
+      "前端专家团，评审一下我这次的代码改动",
+      "移动端 H5 页面开发，按手机端 H5 规范来"
+    ]
+  }
+}
