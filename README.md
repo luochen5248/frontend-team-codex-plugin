@@ -17,7 +17,7 @@ frontend-team/
 │   └── plugin.json            # 插件清单（名称、版本、界面元数据）
 ├── LICENSE                    # MIT 许可
 ├── README.md
-├── assets/                    # 插件图标（icon.png 512×512 / logo.png 1024×1024）
+├── assets/                    # 插件图标（icon.png 512×512 / logo.png 1024×1024 / logoDark.png 1024×1024 深色主题）
 └── skills/                    # 全部技能
     ├── frontend-team/         # 专家团编排层（入口）
     ├── 项目级别前端开发规范/    # PC 大屏 GIS 前端规范

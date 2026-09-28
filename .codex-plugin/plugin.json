@@ -10,6 +10,7 @@
   "interface": {
     "composerIcon": "./assets/icon.png",
     "logo": "./assets/logo.png",
+    "logoDark": "./assets/logoDark.png",
     "brandColor": "#3BF6FF",
     "displayName": "通用大屏前端专家团",
     "shortDescription": "大屏 GIS 与移动端 H5 的多角色前端协作专家团",
